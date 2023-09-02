@@ -1,5 +1,7 @@
 <h1 align="center">Titanic - Machine Learning from Disaster</h1>
 
+[![Code Size](https://img.shields.io/github/languages/code-size/EgorAndrik/titanic)](https://github.com/EgorAndrik/titanic)
+
 ## Used technology stack:
 
 <img src="https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=python&logoColor=gold"/><img src="https://img.shields.io/badge/SKLEARN-black?style=for-the-badge&logo=scikit-learn&logoColor=blue"/><img src="https://img.shields.io/badge/JUPYTER-black?style=for-the-badge&logo=jupyter&logoColor=orange"/><img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=orange"/><img src="https://img.shields.io/badge/NUMPY-black?style=for-the-badge&logo=NumPy&logoColor=013243"/><img src="https://img.shields.io/badge/PANDAS-black?style=for-the-badge&logo=Pandas&logoColor=pink"/><img src="https://img.shields.io/badge/VSC-black?style=for-the-badge&logo=Visual Studio Code&logoColor=007ACC"/><img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=GitHub&logoColor=white"/><img src="https://img.shields.io/badge/KAGGLE-black?style=for-the-badge&logo=Kaggle&logoColor=blue"/>
