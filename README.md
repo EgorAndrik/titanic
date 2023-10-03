@@ -9,18 +9,18 @@
 ## Best submission score: 0.78468
 
 ## Progress
-<h4>In this competition with kaggel, I used algorithms such as:</h4>
+In this competition with kaggel, I used algorithms such as:
 
-- <b>KNeighborsClassifier</b>
-- <b>LogisticRegression</b>
-- <b>RandomForestClassifier</b>
-- <b>GradientBoostingClassifier</b>
-- <b>CatBoostClassifier</b>
+- KNeighborsClassifier
+- LogisticRegression
+- RandomForestClassifier
+- GradientBoostingClassifier
+- CatBoostClassifier
 
-<h4>4 models showed themselves better, and for them I did a search of the parameters along the grid. In the end it all turned out like this:</h4>
+4 models showed themselves better, and for them I did a search of the parameters along the grid. In the end it all turned out like this:
 
 ## Best hyperparametrs for each model
-- <b>LogisticRegression:</b>
+- LogisticRegression:
 ```python
 {'C': 0.5,
  'dual': False,
@@ -31,7 +31,7 @@
  'warm_start': True}
 ```
 
-- <b>RandomForestClassifier:</b>
+- RandomForestClassifier:
 ```python
 {'criterion': 'log_loss',
  'max_depth': 5,
@@ -40,7 +40,7 @@
  'n_estimators': 200}
 ```
 
-- <b>GradientBoostingClassifier:</b>
+- GradientBoostingClassifier:
 ```python
 {'criterion': 'squared_error',
  'learning_rate': 0.01,
@@ -51,7 +51,7 @@
  'subsample': 0.25}
 ```
 
-- <b>CatBoostClassifier:</b>
+- CatBoostClassifier:
 ```python
 {'border_count': 56,
  'depth': 4,
